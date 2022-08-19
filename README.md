@@ -33,7 +33,7 @@ This step can be done on both iPhone and Mac
 	3. click **Add** button
 	4. click **Shortcut Name** and type in whatever name you want (e.g. Switch To Mac)
 	5. search for **"Run Script Over SSH"** in the search field and double-click it
-	6. in the **Script** filed enter 'open -a Siri.app'
+	6. in the **Script** filed enter `open -a Siri.app`
 	7. in the **Host** filed enter numbers from the remembered line (e.g 1.2.3.4)
 	8. in the **User** field enter your username from the remembered line (e.g example) 
 	9. in the **Password** field enter your Mac password
@@ -44,7 +44,7 @@ This step can be done on both iPhone and Mac
 	3. click **Add** button
 	4. click **New Shortcut** > **Rename** and type in whatever name you want (e.g. Switch To Mac)
 	5. click **Add Action** and search for **"Run Script Over SSH"** in the search field and click it
-	6. in the **Script** filed enter 'open -a Siri.app'
+	6. in the **Script** filed enter `open -a Siri.app`
 	7. in the **Host** filed enter numbers from the remembered line (e.g 1.2.3.4)
 	8. in the **User** field enter your username from the remembered line (e.g example) 
 	9. in the **Password** field enter your Mac password
