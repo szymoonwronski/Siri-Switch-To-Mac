@@ -8,6 +8,8 @@ Thanks to this method, you will not have such a problem anymore.
 
 When you say "Hey siri" and it turns on the iPhone just say "Switch To Mac" and Siri will switch to Mac immediately.
 
+Both devices have to be on the same wifi network.
+
 
 ## How To Set Up Or [YouTube Tutorial](https://youtu.be/cHg-KNfGTNM)
 
